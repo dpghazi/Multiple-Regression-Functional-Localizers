@@ -1,4 +1,4 @@
-# Multiple-Regression-Functional-Localizers
+# Multiple Regression Functional Localizers
 - **Neuroscience / Neuroimaging concepts**
     - Functional Localizers
     - Regions of Interest (ROIs)
